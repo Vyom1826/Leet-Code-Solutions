@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -12,9 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
