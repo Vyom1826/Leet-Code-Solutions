@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
 | [3731-find-missing-elements](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
