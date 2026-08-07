@@ -19,6 +19,5 @@ class Solution:
            p.next = list1
         else:
             p.next = list2
-
         return list3.next
         
