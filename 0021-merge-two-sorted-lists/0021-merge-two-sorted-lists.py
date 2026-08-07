@@ -14,13 +14,10 @@ class Solution:
             else:
                 p.next = list2
                 list2 = list2.next
-
             p = p.next
-
         if list1:
             p.next = list1
         else:
             p.next = list2 
-
         return list3.next
         
