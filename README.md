@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
+| [0319-bulb-switcher](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0319-bulb-switcher) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
