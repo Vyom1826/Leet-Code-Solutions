@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0319-bulb-switcher) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
