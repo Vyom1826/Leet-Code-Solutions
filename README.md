@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
