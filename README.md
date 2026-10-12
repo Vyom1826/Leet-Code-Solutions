@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
+| [1480-running-sum-of-1d-array](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Vyom1826/Leet-Code-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
